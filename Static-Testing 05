@@ -1,0 +1,18 @@
+Type of Reviews
+
+- Informal Review
+
+* Informal - Disukusi satu lawan satu tanpa proses formal. contohnya adalah 'buddy reviews'. pair programming,design review,atau kode yang diperiksa oleh seorang pemimpin tim teknis, tujuan utamanya adalah unutk enemukan cacat dan tidak menggunakan proses formal yang nyata
+
+Walkthrough Review
+
+- Walkthrough - dipimpin oleh penulis yang membingbing anda melalui skenario,simulasi,dan kelompok sejawat. BErguna dan sangat visual melalui storyborading, alur kerja, dll. Walkthrough sangat berguna unutk produk yang sangat visual melealui alat-alat storyboarding, alur kerja,dll walkthroughr seharunya menemukan cacat tetapi tidak mengajukan solusi - ini adalah tugas penulis setelah pertemuan.
+
+Succes Factor for Reviews
+
+- Each review shoudl have predefined and agreed objective
+- Any defect should be welocomes
+- Conducted in an antmosphere of trust
+- Techniques are suitable to work-product type
+- Emphasis on learning
+- Management support
