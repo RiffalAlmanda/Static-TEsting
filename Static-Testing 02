@@ -1,0 +1,34 @@
+Reviews
+
+- Dokumenn proyek tertulis atau produk software yang dapat ditinjau adalah:
+
+* Business requiements
+* Functional spesifications
+* System dan database designs
+* Source code
+* Test plants, test cases and script
+* User guides, help text
+* Web pages
+
+Manfaat Reviews
+
+- Manfaat reviews sedini adalah lebih mudah, sederhana dan lebih murah unutk diperebaiki.Deteksi dan korekso defect sejak dini
+- Meningkatkan Produktivitas pembangunan
+- Mengurangi biaya dan rentang waktu pengembangan
+- Lebih sedikit defect dalam kode
+- Mengurangi waktu dan biaya pengujian dinamis
+- Tingkatkan komunikasi antara penguji, analisi, pengembangan, dan pengguna
+
+Types of DEfect Found in Reviews
+
+- Errors (Human)
+- Kelalaian
+- Tambahan
+- Inkonsistensi
+- Ambiguitas
+- Keterbacaan
+- Terminologi
+- Spelling
+- Grammar
+- Layout
+- Struktur
