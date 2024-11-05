@@ -1,0 +1,21 @@
+Static Testing
+Poin Belajar
+
+- Static Testing
+- Reviews
+- Reviews Proces
+- Reviews Roles
+- Types of Reviews
+- Static Analysis
+- Case
+
+Static Testing Technique
+
+- Static Testing adalah pepmeriksaan source code program atau dokumentasi proyek lainnya, tanpa eksekusi kode, untuk menemukan cacat.
+- Dua henis Static Testing;
+- Reviews dilakukan oleh manusia adalah pemeriksaan dokumen secara manual.
+- static analysis - dilakukan oleh alat adalah analisis otomatis source code dan model software.
+
+Static vs Dynamic Testing
+
+- Static Testing adalah pengujian komplemen yang menemukn penyebab cacat secara langsung sedangkan Dynamic Testing menemkan kegagalan yang mungkin disesabkan olelh cacat..
