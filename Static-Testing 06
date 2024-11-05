@@ -1,0 +1,39 @@
+Static Analysis
+During static,These are some of the issues you may ding;
+
+- Unused/undefined variables
+- Dead code
+- Infinte loops
+- Incorrect coding style
+
+Static Analysis
+
+- Selain it, also review the flow of the program during this process in the two following ways:
+- Data flow: Data Flowlooks at how data come inti the system, any interactions the data experience, and how the data leaves the system.
+- Control flow: Here, we evalute the order of execution of code statements to ensure it meets the intended behavior.
+
+Types of reiew
+
+- Informal Reviews
+- Formal reviews
+- Technical review
+- Walk through
+- Inspection Processstyle
+- Static Code Review
+
+Tools for Static Testing
+
+- Checkstyle
+- FindBugs
+- IntelliJ IDEA
+- Jarchitech
+- Jtest
+- LDRA Testbed
+- PMD
+- SemmleCode
+- Sonograph
+- Soot
+- Squale
+- SonaQube
+- SourceMeter
+- ThreadSsafe
